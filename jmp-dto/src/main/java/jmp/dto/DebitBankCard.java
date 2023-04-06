@@ -1,4 +1,4 @@
-package jmp.cloud.bank.dto;
+package jmp.dto;
 
 public class DebitBankCard extends BankCard {
 }

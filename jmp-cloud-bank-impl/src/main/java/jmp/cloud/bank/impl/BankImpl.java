@@ -1,9 +1,9 @@
-package jmp.cloud.bank.api;
+package jmp.cloud.bank.impl;
 
 import jmp.bank.api.Bank;
-import jmp.cloud.bank.dto.BankCard;
-import jmp.cloud.bank.dto.BankCardType;
-import jmp.cloud.bank.dto.User;
+import jmp.dto.BankCard;
+import jmp.dto.BankCardType;
+import jmp.dto.User;
 
 public class BankImpl implements Bank {
     @Override

@@ -1,4 +1,4 @@
-package jmp.cloud.bank.api;
+package jmp.service.api;
 
 import jmp.dto.BankCard;
 import jmp.dto.Subscription;

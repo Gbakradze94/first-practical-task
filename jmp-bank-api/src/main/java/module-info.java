@@ -1,4 +1,4 @@
 module jmp.bank.api {
-    requires jmp.dto;
+    requires transitive jmp.dto;
     exports jmp.bank.api;
 }

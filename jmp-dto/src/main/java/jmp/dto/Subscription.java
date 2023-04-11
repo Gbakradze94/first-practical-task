@@ -2,7 +2,5 @@ package jmp.dto;
 
 import java.time.LocalDate;
 
-public class Subscription {
-    String bankcard;
-    LocalDate startDate;
+public record Subscription(String cardNumber, LocalDate startDate) {
 }
